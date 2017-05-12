@@ -1,0 +1,24 @@
+{
+  "name": "seo-bot-detect",
+  "version": "1.0.0",
+  "description": "Detect SEO Bot Crawler",
+  "main": "./libs/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/fahidmohammad/seo-bot-detect",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fahidmohammad/seo-bot-detect.git"
+  },
+  "keywords": [
+    "seo",
+    "detect",
+    "google",
+    "crawler",
+	"google-bot",
+	"seo-bot"
+  ],
+  "author": "Fahid Mohammad",
+  "license": "ISC"
+}
