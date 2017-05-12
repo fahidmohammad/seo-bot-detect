@@ -4,6 +4,7 @@ Node.js module that detect SEO Bot's. This module detects requests from search e
 Installation
 ----------
 Install via npm.
+
 `npm install seo-bot-detect --save`
 
 Usage with Express.js
