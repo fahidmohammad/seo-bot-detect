@@ -1,6 +1,6 @@
 {
   "name": "seo-bot-detect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Detect SEO Bot Crawler",
   "main": "./libs/index.js",
   "scripts": {
